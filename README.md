@@ -124,5 +124,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Special thanks to the open-source community for contributing to Python and its rich ecosystem.
 
 ---
-
-Feel free to modify and expand on this README based on your app's specific functionalities, and remember to replace the placeholder text like `yourusername` with your actual GitHub username. You can also add any specific setup or configuration steps you have for your project, such as API keys or platform-specific instructions.
