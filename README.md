@@ -1,5 +1,3 @@
-Creating a README for your **Speech-Assistant-App** in Python will help others understand how to use and contribute to the project. Below is a basic structure for your `README.md` file, which you can customize according to the specifics of your application:
-
 ---
 
 # Speech-Assistant-App
