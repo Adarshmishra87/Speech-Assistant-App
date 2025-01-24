@@ -49,7 +49,7 @@ beautifulsoup4
 Clone this repository to your local machine and set up a virtual environment for the project:
 
 ```bash
-git clone https://github.com/yourusername/Speech-Assistant-App.git
+git clone https://github.com/Adarshmishra87/Speech-Assistant-App.git
 cd Speech-Assistant-App
 python -m venv venv
 source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
@@ -113,10 +113,6 @@ We welcome contributions to improve the app! To contribute:
 3. Make your changes and commit them: `git commit -am 'Add new feature'`
 4. Push to your branch: `git push origin feature/your-feature`
 5. Open a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
