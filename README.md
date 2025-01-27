@@ -63,7 +63,7 @@ This application listens to your voice and recognizes commands using speech reco
 Run the application using:
 
 ```bash
-python assistant.py
+python main.py
 ```
 
 You can now interact with your assistant by saying commands like:
@@ -104,19 +104,9 @@ python assistant.py
 
 Your assistant will start listening for voice commands. Speak into the microphone, and it will respond accordingly.
 
-## Contributing
-
-We welcome contributions to improve the app! To contribute:
-
-1. Fork this repository.
-2. Create a new branch: `git checkout -b feature/your-feature`
-3. Make your changes and commit them: `git commit -am 'Add new feature'`
-4. Push to your branch: `git push origin feature/your-feature`
-5. Open a pull request.
-
 ## Acknowledgments
 
 - Thanks to the creators of libraries like `speech_recognition`, `pyttsx3`, and `pyaudio` for making it easy to build voice-based applications.
 - Special thanks to the open-source community for contributing to Python and its rich ecosystem.
-
+- 
 ---
